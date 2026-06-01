@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+saved_models/
+reports/figures/
+
+.ipynb_checkpoints/
+.env
+.DS_Store
